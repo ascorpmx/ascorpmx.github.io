@@ -9,9 +9,9 @@ description: "Sitio oficial de AsCorp"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Anthony Smith
   pic: 1
-  position: Lead Designer
+  position: CEO
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Luis Sustaita
   pic: 2
-  position: Lead Marketer
+  position: CTO
   social:
     - title: twitter
       url: #
